@@ -29,7 +29,7 @@ Se identificaron, redactaron y clasificaron los requerimientos del sistema en tr
 
 ## 📄 Archivos entregables
 -  **[CP2_Tipos_Requerimientos_Grupo1.pdf](https://github.com/jaraujoa3-ops/Componente_Practico_2_Jos-Araujo/blob/main/Tipos_Requerimientos/CP2_Tipos_Requerimientos_Grupo1.pdf)
--  **[CP2_Tipos_Requerimientos_Grupo1.docx] (https://github.com/jaraujoa3-ops/Componente_Practico_2_Jos-Araujo/blob/main/Tipos_Requerimientos/CP2_Tipos_Requerimientos_Grupo1.docx)
+-  **[CP2_Tipos_Requerimientos_Grupo1.docx](https://github.com/jaraujoa3-ops/Componente_Practico_2_Jos-Araujo/blob/main/Tipos_Requerimientos/CP2_Tipos_Requerimientos_Grupo1.docx)
   
 ---
 
