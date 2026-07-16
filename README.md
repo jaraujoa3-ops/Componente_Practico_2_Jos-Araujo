@@ -28,8 +28,8 @@ Se identificaron, redactaron y clasificaron los requerimientos del sistema en tr
 ---
 
 ## 📄 Archivos entregables
--  **CP2_Tipos_Requerimientos_Grupo1.pdf** 
--  **CP2_Tipos_Requerimientos_Grupo1.docx** 
+-  **[CP2_Tipos_Requerimientos_Grupo1](CP2_Tipos_Requerimientos_Grupo1.pdf)** 
+-  **[CP2_Tipos_Requerimientos_Grupo1](CP2_Tipos_Requerimientos_Grupo1.docx)** 
 
 ---
 
